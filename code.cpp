@@ -39,7 +39,7 @@ int main() {
     cout << endl;
 
     trafficRanges(flights, 5, 8);
-    trafficRanges(flights, 9, 12);
+    trafficRanges(flights, 11, 18);
 }
 
 void trafficRanges(map <string, int> flights, int low, int high) {
